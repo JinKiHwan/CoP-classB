@@ -1,0 +1,17 @@
+figure
+모르겠다 싶으면 div
+
+   <div id="wrap">
+
+        
+    </div>
+
+css에서 부를 때
+id는 #
+class는 .
+
+단축키
+태그*n
+ctrl+alt 위아래
+ctrl+d 동시선택
+ctrl+shift+/ 주석
